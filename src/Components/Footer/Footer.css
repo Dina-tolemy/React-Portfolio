@@ -1,0 +1,18 @@
+
+
+  .projectFooter{
+   
+    text-align: center;     
+    position: fixed;
+    width: 100%;  
+     background-color:#102027;
+     padding:2px;
+     bottom: 0;  
+     color: aliceblue; 
+
+  }
+
+  .fa-linkedin-in, .fa-github{
+    margin: 0;
+   color: blue !important
+}
