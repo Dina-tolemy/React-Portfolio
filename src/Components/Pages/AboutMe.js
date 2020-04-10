@@ -1,14 +1,11 @@
 import React from 'react';
 
-
-const Projects = () => {
+const AboutMe = () => {
     return ( 
        <div className="aboutMeDiv">
-      
-        <h1>Projects</h1>
-       
+  <h1>Meeeeeeeeeeeeeeeeeeeeeeeeeee</h1>
        </div>
      );
 }
  
-export default Projects;
+export default AboutMe;

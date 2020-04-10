@@ -1,12 +1,13 @@
 import React from 'react';
-import Navbar from '../Navbar/navbar';
 
-const AboutMe = () => {
+const ContactInfo = () => {
     return ( 
        <div className="aboutMeDiv">
-        <Navbar/>
+       
+        <h1>Contacts</h1>
+      
        </div>
      );
 }
  
-export default AboutMe;
+export default ContactInfo;
