@@ -1,5 +1,11 @@
+.meContent{
 
-.card-title, .card-text{
+    font-size: 26px;
+    font-family:'Monoton', cursive;
+    margin:20px;
+
+}
+.nameTitle{
 
     font-family:'Monoton', cursive;
     font-style: italic;

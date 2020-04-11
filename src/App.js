@@ -3,7 +3,7 @@ import './App.css';
 import Footer from "./Components/Footer/footer"
 import Navbar from './Components/Navbar/navbar'
 import ContactInfo from './Components/Pages/ContactInfo';
-import AboutMe from './Components/Pages/AboutMe';
+import AboutMe from './Components/Pages/AboutMe/AboutMe';
 import Projects from './Components/Pages/Projects';
 import MainPage from './Components/Pages/Main/main';
 import { BrowserRouter as Router, Route } from "react-router-dom";
@@ -25,5 +25,4 @@ function App() {
     </div>
   );
 }
-
 export default App;

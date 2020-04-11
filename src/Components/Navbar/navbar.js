@@ -10,8 +10,8 @@ const Navbar = () => {
                 <nav class="navbar navbar-expand-md projectsNav navBar">
                     <ul class="ulFlex navbar-nav">
                         <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
-                            Home
-                         </Link>
+                            
+                        </Link>
                          <Link to="/AboutMe" className={location.pathname === "/AboutMe" ? "nav-link active" : "nav-link"}>
                             AboutMe
                          </Link>
