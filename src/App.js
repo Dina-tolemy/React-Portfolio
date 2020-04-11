@@ -2,9 +2,9 @@ import React from 'react';
 import './App.css';
 import Footer from "./Components/Footer/footer"
 import Navbar from './Components/Navbar/navbar'
-import ContactInfo from './Components/Pages/ContactInfo';
+import ContactInfo from './Components/Pages/Contacts/ContactInfo';
 import AboutMe from './Components/Pages/AboutMe/AboutMe';
-import Projects from './Components/Pages/Projects';
+import Projects from './Components/Pages/projects/Projects';
 import MainPage from './Components/Pages/Main/main';
 import { BrowserRouter as Router, Route } from "react-router-dom";
 
