@@ -1,9 +1,9 @@
 
-.card-title, .card-text{
 
-    font-family:'Monoton', cursive;
-    font-style: italic;
-    letter-spacing: 0.5px;
-    font-size:50px;
-    margin:20px;
+.backgroundCard{
+    background-image: url("./background.jpg");
+    height: 750px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
 }

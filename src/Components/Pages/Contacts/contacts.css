@@ -1,10 +1,32 @@
-.ContactInfo{
-
+.ContactInfo {
     list-style: none;
     text-align: left;
 }
+.myContactsDiv{
+  background-color:rgb(242, 247, 229);
+  border-radius: 20px;
+  margin-top: 30px;
+}
 
-.links{
-
+.links {
     text-align: left;
+}
+
+.contactTitle {
+    color: #37474f;
+    margin-top: 30px;
+    font-family: 'Monoton', cursive;
+    font-style: italic;
+    font-weight: bold;
+   
+    
+}
+
+.linkTitle {
+    color: #37474f;
+    margin-top: 30px;
+    font-family: 'Monoton', cursive;
+    font-style: italic;
+    font-weight: bold;
+   
 }

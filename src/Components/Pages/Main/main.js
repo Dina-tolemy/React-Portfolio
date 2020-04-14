@@ -1,18 +1,17 @@
 import React from 'react';
-import './main.css'
+import './main.css';
+import './background.jpg';
+
 
 const MainPage = () => {
-    return (  
-
-        <div class="card bg-dark text-white">
-  <img class="card-img" src="https://lh3.googleusercontent.com/proxy/QK86r38AXup2oyL-fOl1lynzqe97twYpdNjvBAmtwRFyPer8Q203gCxCpdLhtKLFBBFH8ve-JO_vPlbMPKiDtvUYyEi4GTd7UffdKc-KqueZ0as7wSIMoFX2iA" alt="img"/>
-  <div class="card-img-overlay">
-    <h1 class="card-title">Hi, Iam Dina Eltolemy</h1>
-    <h4 class="card-text"> a Full-Stack developer</h4>
+  return (
+   
+    <div className="mainPage">
+     <div className="card backgroundCard">
+       </div>
+    </div>
     
-  </div>
-</div>
-    );
+  );
 }
- 
+
 export default MainPage;

@@ -10,7 +10,7 @@
 }
 
 .projectCard > .img-container {
-  height: 60%;
+  height: 50%;
   overflow: hidden;
   text-align: center;
   background:rgb(224, 245, 154);
@@ -24,6 +24,8 @@
   padding-left: 1rem;
   padding-right: 1rem;
   font-size: 14px;
+  color: #37474f;
+  font-family: cursive;
 }
 
 .projectCard > .content > ul {
@@ -32,4 +34,13 @@
 
 .projectCard > .content > ul > li {
   margin-top: 10px;
+}
+.projectTitle{
+  text-align: center;
+  font-size: 20;
+  font-family: cursive;
+  color: #37474f;
+  background-color: rgb(242, 247, 229);
+  padding: 5px;
+  margin: 5px;
 }
