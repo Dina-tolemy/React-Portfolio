@@ -1,14 +1,30 @@
-import React from 'react';
+import React, { Component } from 'react';
+import ProjectCard from './ProjectCard/projectCard';
+import projectList from './projectList.json';
+import Wrapper from './wrapper/wrapper'
 
 
-const Projects = () => {
-    return ( 
-       <div className="aboutMeDiv">
-      
-        <h1>Projects</h1>
-       
-       </div>
-     );
+
+class Projects extends Component {
+  state = { 
+    projectList
+   };
+  render() {
+    return (
+      <Wrapper>
+      {this.state.projectList.map(project => (
+        <ProjectCard
+          key={project.id}
+          projectName={project.projectName}
+          img={project.img}
+          summary={project.summary}
+          githubLink={project.githubLink}
+          deployedLink={project.deployedLink}
+        />
+      ))}
+    </Wrapper>
+    );
+  }
 }
- 
+
 export default Projects;

@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "projectName": "Employee-Directory",
+        "githubLink": "",
+        "deployedLink": "",
+        "summary": ""
+    },
+    {
+        "id": 2,
+        "projectName": "Day planner",
+        "githubLink": "https://github.com/Dina-tolemy/Day-planner",
+        "deployedLink": "https://dina-tolemy.github.io/Day-planner/",
+        "summary": "It's a site that allows the user to save all his important meetings and tasks during the work day from 9 AM till 5 PM",
+        "img":"https://user-images.githubusercontent.com/55872249/70368243-3fd57380-18fc-11ea-91f5-2a26903189b8.png"
+    },
+    {
+        "id": 3,
+        "projectName": "Quick Quiz",
+        "githubLink": "https://github.com/Dina-tolemy/Coding-quiz",
+        "deployedLink": "https://dina-tolemy.github.io/Coding-quiz/",
+        "summary": "It's a simple Java script quiz with a timer and the score is the time left. It shows the score at the end and it keeps the scores and shows the highest",
+        "img":"https://user-images.githubusercontent.com/55872249/69898061-4b7ae480-13a8-11ea-8d23-25adb9a0c01e.png"
+    },
+    {
+        "id": 4,
+        "projectName": "Arenna Collection",
+        "githubLink": "https://github.com/Jasper8628/GroupProjectOne",
+        "deployedLink": "https://jasper8628.github.io/GroupProjectOne/",
+        "summary": "It's a site that allows the players of the magic gathering game to search the cards depending on varaity of serch methods and build their own card deck and import it to the game"
+    },
+    {
+        "id": 5,
+        "projectName": "Proficiency education",
+        "githubLink": "https://github.com/tak-9/project2",
+        "deployedLink": "https://proficiency.herokuapp.com/",
+        "summary": "It's a site for an education centers that allows the students to Enroll to the center with the courses they want, and then then use thier acount to sign in and see their grades and details And for the stuff to view all students details and enter the grades for the sudent's homework"
+    }
+]
