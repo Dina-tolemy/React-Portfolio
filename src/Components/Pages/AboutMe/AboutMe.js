@@ -8,11 +8,11 @@ const AboutMe = () => {
      return (
           <Wrapper>
                <div className=" container aboutMeDiv">
-                    <div class="row">
-                         <div class="col-sm-12 col-lg-4 card">
-                              <img src={profileImg} alt={'img'} />
+                    <div className="row">
+                         <div className="col-sm-12 col-lg-4 card imgContainer">
+                              <img  className="profileImg" src={profileImg} alt={'img'} />
                          </div>
-                         <div class="col-sm-12 col-lg-8 card">
+                         <div className="col-sm-12 col-lg-8 card summary">
                               <h4 className='nameTitle'> Iam Dina Eltolemy</h4>
                               <br></br>
                               <div className='meContent'>

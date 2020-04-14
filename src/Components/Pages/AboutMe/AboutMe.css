@@ -3,7 +3,12 @@
     font-size: 26px;
     font-family:'Monoton', cursive;
     margin:20px;
+    
 
+}
+.summary{
+    border-radius: 20px;
+    background-color: lightgoldenrodyellow;
 }
 .nameTitle{
 
@@ -12,4 +17,13 @@
     letter-spacing: 0.5px;
     font-size:50px;
     margin:20px;
+}
+
+.profileImg{
+    border-radius: 70px;
+    width: 100%;
+    height: 100%;
+}
+.imgContainer{
+    border-radius: 100px;
 }

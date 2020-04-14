@@ -7,10 +7,10 @@ const Navbar = () => {
     const location = useLocation();
     return (
             <div>
-                <nav class="navbar navbar-expand-md projectsNav navBar">
-                    <ul class="ulFlex navbar-nav">
+                <nav class="navbar navbar-expand-sm projectsNav navBar">
+                    <ul class=" navbar-nav myNav">
                         <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
-                            
+                           Home 
                         </Link>
                          <Link to="/AboutMe" className={location.pathname === "/AboutMe" ? "nav-link active" : "nav-link"}>
                             AboutMe
