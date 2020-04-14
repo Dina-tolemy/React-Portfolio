@@ -3,7 +3,7 @@ import "./card.css";
 
 function ProjectCard(props) {
     return (
-        <div className="card projectCard col-sm-12  col-md-6 col-lg-4">
+        <div className="card projectCard col-sm-12  col-md-6  col-lg-4">
 
             <div className="content">
             <strong className="projectTitle"> {props.projectName}</strong>
@@ -13,9 +13,9 @@ function ProjectCard(props) {
                     </li>
                     <li>
                         <a href={props.githubLink} >
-                            GitHub Repo </a>{" - "}
+                          <strong>  GitHub Repo </strong></a>{" - "}
                             <a href={props.deployedLink} >
-                            Deployed link </a>
+                          <strong>  Deployed link</strong> </a>
                     </li>
                 </ul>
             </div>

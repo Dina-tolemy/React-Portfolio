@@ -2,16 +2,17 @@
     {
         "id": 1,
         "projectName": "Employee-Directory",
-        "githubLink": "",
-        "deployedLink": "",
-        "summary": ""
+        "githubLink": "https://github.com/Dina-tolemy/Employee-Directory",
+        "deployedLink": "https://emplyee-directory173.herokuapp.com/",
+        "summary": "It's a React application that shows a number of random employees and allows the user to search by last or first name, User also can sort the employee by name or age.",
+        "img":"https://user-images.githubusercontent.com/55872249/78516222-31408f80-77fc-11ea-91f1-e922ec152d71.png"
     },
     {
         "id": 2,
         "projectName": "Day planner",
         "githubLink": "https://github.com/Dina-tolemy/Day-planner",
         "deployedLink": "https://dina-tolemy.github.io/Day-planner/",
-        "summary": "It's a site that allows the user to save all his important meetings and tasks during the work day from 9 AM till 5 PM",
+        "summary": "It's a site that allows the user to save all his important meetings and tasks during the work day from 9 AM till 5 PM.",
         "img":"https://user-images.githubusercontent.com/55872249/70368243-3fd57380-18fc-11ea-91f5-2a26903189b8.png"
     },
     {
@@ -19,7 +20,7 @@
         "projectName": "Quick Quiz",
         "githubLink": "https://github.com/Dina-tolemy/Coding-quiz",
         "deployedLink": "https://dina-tolemy.github.io/Coding-quiz/",
-        "summary": "It's a simple Java script quiz with a timer and the score is the time left. It shows the score at the end and it keeps the scores and shows the highest",
+        "summary": "It's a simple Java script quiz with a timer and the score is the time left. It shows the score at the end and it keeps the scores and shows the highest.",
         "img":"https://user-images.githubusercontent.com/55872249/69898061-4b7ae480-13a8-11ea-8d23-25adb9a0c01e.png"
     },
     {
@@ -27,13 +28,15 @@
         "projectName": "Arenna Collection",
         "githubLink": "https://github.com/Jasper8628/GroupProjectOne",
         "deployedLink": "https://jasper8628.github.io/GroupProjectOne/",
-        "summary": "It's a site that allows the players of the magic gathering game to search the cards depending on varaity of serch methods and build their own card deck and import it to the game"
+        "summary": "It's a site that allows the players of the magic gathering game to search the cards depending on varaity of serch methods and build their own card deck and import it to the game",
+        "img":"https://user-images.githubusercontent.com/55872249/79184636-13a4a300-7e58-11ea-9f36-05b7587665e0.png"
     },
     {
         "id": 5,
         "projectName": "Proficiency education",
         "githubLink": "https://github.com/tak-9/project2",
         "deployedLink": "https://proficiency.herokuapp.com/",
-        "summary": "It's a site for an education centers that allows the students to Enroll to the center with the courses they want, and then then use thier acount to sign in and see their grades and details And for the stuff to view all students details and enter the grades for the sudent's homework"
+        "summary": "It's a site for an education centers that allows the students to Enroll to the center with the courses they want, and then then use thier acount to sign in and see their grades and details And for the stuff to view all students details and enter the grades for the sudent's homework",
+        "img":"https://user-images.githubusercontent.com/55872249/79184618-04255a00-7e58-11ea-9b60-18cff7278539.png"
     }
 ]

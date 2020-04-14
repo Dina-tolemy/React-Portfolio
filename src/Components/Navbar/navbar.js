@@ -19,7 +19,7 @@ const Navbar = () => {
                             Projects
                          </Link>
                          <Link to="/ContactInfo" className={location.pathname === "/ContactInfo" ? "nav-link active" : "nav-link"}>
-                           ContactInfo
+                           Contacts
                          </Link>
                     </ul>
                 </nav>
